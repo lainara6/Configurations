@@ -1,60 +1,47 @@
 {
   "monthly": {
-    "839aa825-9690-4eb5-98bc-6d440bd2809c": {
-      "Jan": ["1-Jan", "10-Jan"],
-      "Feb": ["1-Feb", "10-Feb"],
-      "Mar": ["1-Mar", "10-Mar"],
-      "Apr": ["1-Apr", "10-Apr"],
-      "May": ["1-May", "10-May"],
-      "Jun": ["1-Jun", "10-Jun"],
-      "Jul": ["1-Jul", "10-Jul"],
-      "Aug": ["1-Aug", "10-Aug"],
-      "Sep": ["1-Sep", "10-Sep"],
-      "Oct": ["1-Oct", "10-Oct"],
-      "Nov": ["1-Nov", "10-Nov"],
-      "Dec": ["1-Dec", "10-Dec"]
-    },
     "due": {
-      "Jan": ["1-Jan", "10-Jan"],
-      "Feb": ["1-Feb", "10-Feb"],
-      "Mar": ["1-Mar", "10-Mar"],
-      "Apr": ["1-Apr", "10-Apr"],
-      "May": ["1-May", "10-May"],
-      "Jun": ["1-Jun", "10-Jun"],
-      "Jul": ["1-Jul", "10-Jul"],
-      "Aug": ["1-Aug", "10-Aug"],
-      "Sep": ["1-Sep", "10-Sep"],
-      "Oct": ["1-Oct", "10-Oct"],
-      "Nov": ["1-Nov", "10-Nov"],
-      "Dec": ["1-Dec", "10-Dec"]
+      "Jan": ["1-Jan", "15-Jan"],
+      "Feb": ["1-Feb", "15-Feb"],
+      "Mar": ["1-Mar", "15-Mar"],
+      "Apr": ["1-Apr", "15-Apr"],
+      "May": ["1-May", "15-May"],
+      "Jun": ["1-Jun", "15-Jun"],
+      "Jul": ["1-Jul", "15-Jul"],
+      "Aug": ["1-Aug", "15-Aug"],
+      "Sep": ["1-Sep", "15-Sep"],
+      "Oct": ["1-Oct", "15-Oct"],
+      "Nov": ["1-Nov", "15-Nov"],
+      "Dec": ["1-Dec", "15-Dec"]
     }
   },
   "quarterly": {
-    "839aa825-9690-4eb5-98bc-6d440bd2809c": {
-      "1": ["01-Jan", "10-Jan"],
-      "2": ["01-Apr", "10-Apr"],
-      "3": ["01-Jul", "10-Jul"],
-      "4": ["01-Oct", "10-Oct"]
+    "781f46be-02ea-47e6-8058-01cd795a92df": {
+      "1": ["01-Jan", "31-Mar"],
+      "2": ["01-Apr", "30-Jun"],
+      "3": ["01-Jul", "30-Sep"],
+      "4": ["01-Oct", "31-Dec"]
     },
     "due": {
-      "1": ["01-Jan", "10-Jan"],
-      "2": ["01-Apr", "10-Apr"],
-      "3": ["01-Jul", "10-Jul"],
-      "4": ["01-Oct", "10-Oct"]
+      "1": ["01-Jan", "15-Jan"],
+      "2": ["01-Apr", "15-Apr"],
+      "3": ["01-Jul", "15-Jul"],
+      "4": ["01-Oct", "15-Oct"]
     }
   },
   "semesterly": {
-    "839aa825-9690-4eb5-98bc-6d440bd2809c": {
-      "1": ["01-Jan", "10-Jan"],
-      "2": ["01-Jul", "10-Jul"]
-    },
     "due": {
-      "1": ["01-Jan", "10-Jan"],
-      "2": ["01-Jul", "10-Jul"]
+      "1": ["01-Jan", "15-Jan"],
+      "2": ["01-Jul", "15-Jul"]
     }
   },
   "annually": {
-    "839aa825-9690-4eb5-98bc-6d440bd2809c": ["01-Jan", "10-Jan"],
-    "due": ["01-Jan", "10-Jan"]
+    "c1641d73-64b4-477b-b8bb-29315a16d6be": ["01-Jan", "15-Jan"],
+    "f03b1b6a-8966-4ecc-8804-735a214fe877": ["01-Jan", "31-Jan"],
+    "8265816d-7409-428f-9c91-b97883d7b933": ["01-Jan", "15-Jan"],
+    "b60bbc15-0772-45ec-a2aa-987853e5989e": ["01-Jan", "31-Dec"],
+    "385bf3e4-c574-4f77-8998-90c5d97640a4": ["01-Jan", "30-Jun"],
+    "68c99d54-3f15-4798-925f-5f7854eb2bef": ["01-Jan", "31-Dec"],
+    "due": ["01-Jan", "31-Mar"]
   }
 }
