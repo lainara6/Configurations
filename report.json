@@ -18,30 +18,30 @@
   },
   "quarterly": {
     "exception": {
-      "Deloitte (Cambodia) Co., Ltd.": {
-        "1": ["01-Jan", "15-Mar"],
-        "2": ["01-Apr", "15-Jun"],
-        "3": ["01-Jul", "15-Sep"],
-        "4": ["01-Oct", "15-Dec"]
-      },
-      "ERNST & YOUNG (CAMBODIA)LTD.": {
-        "1": ["01-Jan", "15-Jan"],
-        "2": ["01-Apr", "15-Apr"],
-        "3": ["01-Jul", "15-Jul"],
-        "4": ["01-Oct", "15-Oct"]
-      },
-      "K P M G CAMBODIA LTD": {
-        "1": ["01-Jan", "15-Jan"],
-        "2": ["01-Apr", "15-Apr"],
-        "3": ["01-Jul", "15-Jul"],
-        "4": ["01-Oct", "15-Oct"]
-      },
-      "PricewaterhouseCoopers (Cambodia) Ltd.": {
-        "1": ["01-Jan", "15-Jan"],
-        "2": ["01-Apr", "15-Apr"],
-        "3": ["01-Jul", "15-Jul"],
-        "4": ["01-Oct", "15-Oct"]
-      }
+      "440f98a1-bbb4-4b62-a75e-6cd5514bf62b": [
+        ["15-Jun", "14-Sep"],
+        ["15-Sep", "14-Dec"],
+        ["15-Dec", "14-Mar"],
+        ["15-Mar", "14-Jun"]
+      ],
+      "b3db2dcd-7476-48ba-9d95-79fb0b4ba3d5": [
+        ["15-Jul", "14-Oct"],
+        ["15-Oct", "14-Jan"],
+        ["15-Jan", "14-Apr"],
+        ["15-Apr", "14-Jul"]
+      ],
+      "5721bcd6-7bfa-4d89-917f-1505756f7a3f": [
+        ["15-Oct", "14-Jan"],
+        ["15-Jan", "14-Apr"],
+        ["15-Apr", "14-Jul"],
+        ["15-Jul", "14-Oct"]
+      ],
+      "fbeaa11b-e48f-4a80-a45a-5438f6dddeae": [
+        ["15-Jul", "14-Oct"],
+        ["15-Oct", "14-Jan"],
+        ["15-Jan", "14-Apr"],
+        ["15-Apr", "14-Jul"]
+      ]
     },
     "781f46be-02ea-47e6-8058-01cd795a92df": {
       "1": ["01-Jan", "31-Mar"],
@@ -65,10 +65,10 @@
   },
   "annually": {
     "exception": {
-      "Deloitte (Cambodia) Co., Ltd.": ["01-Jan", "31-Aug"],
-      "ERNST & YOUNG (CAMBODIA)LTD.": ["01-Jan", "30-Sep"],
-      "K P M G CAMBODIA LTD": ["01-Jan", "31-Dec"],
-      "PricewaterhouseCoopers (Cambodia) Ltd.": ["01-Jan", "30-Sep"]
+      "440f98a1-bbb4-4b62-a75e-6cd5514bf62b": ["30-May", "31-Aug"],
+      "b3db2dcd-7476-48ba-9d95-79fb0b4ba3d5": ["30-Jun", "30-Sep"],
+      "5721bcd6-7bfa-4d89-917f-1505756f7a3f": ["30-Sep", "31-Dec"],
+      "fbeaa11b-e48f-4a80-a45a-5438f6dddeae": ["30-Jun", "30-Sep"]
     },
     "c1641d73-64b4-477b-b8bb-29315a16d6be": ["01-Jan", "15-Jan"],
     "f03b1b6a-8966-4ecc-8804-735a214fe877": ["01-Jan", "31-Jan"],
